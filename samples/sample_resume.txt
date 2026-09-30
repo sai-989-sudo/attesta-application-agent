@@ -1,0 +1,35 @@
+RILEY CHEN
+Tempe, AZ | riley.chen@example.com | github.com/rileychen-demo
+(Fictional sample profile for trying Attesta)
+
+EDUCATION
+Arizona State University — M.S. Data Science, Analytics and Engineering (Expected May 2028)
+Coursework: Statistical Machine Learning, Data Mining, Natural Language Processing
+Sample State University — B.Tech. Computer Science, 2025
+
+EXPERIENCE
+Data Analyst Intern, Northwind Retail Analytics (Jan 2025 – Jun 2025)
+- Cleaned and merged 3 years of sales data in pandas and SQL, reducing manual reporting time for the team
+- Built a Tableau dashboard tracking weekly store performance used in management meetings
+- Wrote Python scripts to automate data quality checks on incoming CSV files
+- Documented the data pipeline and trained two new interns on the workflow
+
+Peer Tutor, Sample State University Learning Center (Aug 2023 – May 2024)
+- Tutored undergraduate students in introductory Python programming and statistics
+- Held weekly drop-in sessions and explained debugging strategies one-on-one
+
+PROJECTS
+Clinical Notes Symptom Extractor
+- Built an NLP pipeline with spaCy and custom rules to extract symptoms from 500 synthetic clinical notes
+- Compared rule-based extraction against a fine-tuned BERT model and reported precision and recall
+Customer Churn Predictor
+- Trained and compared logistic regression and gradient boosting models in scikit-learn on 7,043 customer records
+- Deployed the model behind a Flask REST API with a JavaScript dashboard
+
+SKILLS
+Languages: Python, SQL, Java, JavaScript
+ML & Data: scikit-learn, TensorFlow, pandas, NumPy, spaCy, NLTK
+Tools: Flask, Git, Tableau, Excel, Jupyter, Linux
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner
