@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/*.db
+data/*.db-*
+.pytest_cache/
+.DS_Store
+# never commit a real resume
+samples/*private*
+*.docx
+*.pdf
