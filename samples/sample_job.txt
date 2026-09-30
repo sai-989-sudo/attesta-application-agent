@@ -1,0 +1,25 @@
+Student Worker – Research Data Assistant
+University Library Data Services (sample posting for demo purposes)
+
+About the role
+The Library Data Services team supports faculty and graduate researchers with data cleaning, analysis and visualization. We are hiring a part-time student worker for 15–20 hours per week.
+
+Essential duties
+- Clean, merge and document research datasets using Python or R
+- Build dashboards and visualizations in Tableau or Power BI for library reports
+- Answer walk-in and email questions from students about data tools
+- Write clear documentation and how-to guides for data workflows
+
+Minimum qualifications
+- Currently enrolled as a student and eligible for on-campus employment
+- Experience with Python and pandas for data analysis
+- Working knowledge of SQL
+- Strong written and verbal communication skills
+
+Desired qualifications
+- Experience with R or statistical software
+- Familiarity with Power BI
+- Experience teaching, tutoring or supporting other users with technical tools
+- Knowledge of Git and version control
+
+The university is an equal opportunity employer. Pay rate: $16.00 per hour.
